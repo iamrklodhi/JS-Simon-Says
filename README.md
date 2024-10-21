@@ -51,4 +51,4 @@ To get a local copy of the game up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/your-iamrklodhi/simon-says-game.git
