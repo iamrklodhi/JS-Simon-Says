@@ -43,7 +43,6 @@ Can you beat your high score?
 - **HTML5**: Structure of the game.
 - **CSS3**: Styling for the game layout.
 - **JavaScript (ES6+)**: Core game logic, user interactions, and animations.
-- **[Optional] Any libraries or frameworks (if used)**
 
 ## Installation
 
